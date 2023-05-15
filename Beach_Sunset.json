@@ -1,0 +1,42 @@
+{
+  "manifest": {
+    "author": "Nova#1188",
+    "version": "0.0.1",
+    "name": "Beach Sunset",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "background_secondary": -7973774,
+    "background": -5012577
+  },
+  "colors": {
+    "primary_700": -11961690,
+    "primary_dark_630": -5012577,
+    "primary_dark_360": -12162415,
+    "white_500": -269857,
+    "primary_dark_200": -21831,
+    "primary_dark_330": -269857,
+    "primary_dark_300": -21831,
+    "primary_dark_400": -7973774,
+    "uikit_settings_item_text_color_dark": -269857,
+    "primary_dark_800": -11961690,
+    "link": -269857,
+    "primary_dark_660": -7973774,
+    "primary_630": -12162415,
+    "primary_660": -9657140,
+    "status_grey_200": -269857,
+    "uikit_settings_item_text_color_light": -12162415
+  },
+  "drawable_tints": {
+    "drawable_overlay_channels_selected_dark": -7973774,
+    "ic_mobile": -4594489,
+    "ic_status_online_16dp": -4594489,
+    "ic_sidebar_pins_off_dark_24dp": -269857,
+    "ic_sidebar_notifications_on_dark_24dp": -269857,
+    "ic_channel_text": -269857,
+    "ic_status_idle_16dp": -727366,
+    "ic_status_dnd_16dp": -1536881,
+    "ic_status_invisible_16dp": -5526613
+  }
+}
