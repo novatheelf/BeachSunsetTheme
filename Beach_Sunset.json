@@ -6,6 +6,9 @@
     "transparency_mode": 0
   },
   "background": {},
+  "fonts": {
+    "*": "https://cdn.discordapp.com/attachments/703632895696306176/1107505745618010152/Comfortaa-Regular.ttf"
+  },
   "simple_colors": {
     "background_secondary": -7973774,
     "background": -5012577
